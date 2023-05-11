@@ -1,0 +1,28 @@
+.hello {
+    color: yellowgreen;
+}
+
+h1.love {
+    font-weight: bold;
+    color: beige;
+ border-radius: 50%;
+}   
+
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.html {
+    background-color: black;
+}
+
+h3{
+    font-style: oblique;
+     color:rosybrown ;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: palevioletred;
+}
